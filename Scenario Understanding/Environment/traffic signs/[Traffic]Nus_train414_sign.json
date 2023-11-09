@@ -1,0 +1,4 @@
+{
+  "question": "This is a front-camera view of a driving car. Please identify all the traffic signs in the image, and explain each of them.",
+  "answer": "There are three traffic signs in the image:\nA sign under the overhead structure displaying \"4.5m\": This sign indicates the maximum height of vehicles that can safely pass underneath the structure. Vehicles taller than 4.5 meters should not proceed.\nA triangular sign with a curved arrow pointing left: This is a warning sign that indicates there is a left bend or curve ahead. Drivers should be cautious and possibly reduce their speed.\nA rectangular sign with the word \"SLOW\": This sign instructs drivers to reduce their speed, typically because of potential hazards or a specific condition ahead that requires slower driving."
+}

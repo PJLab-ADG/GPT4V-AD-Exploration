@@ -1,0 +1,10 @@
+{
+  "dialogs1": {
+    "question": "Describe the condition of all the traffic lights in the image, if there are countdowns, please describe them together.",
+    "answer": "The image has two red traffic lights, both without any visible countdowns."
+  },
+  "dialog2": {
+    "question": "How about the yellow lights in the image?",
+    "answer": "In addition to the red traffic lights, there are two yellow streetlights illuminating the road, but they are not traffic signals."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "dialog1": {
+    "question": "This is what you see behind the wheel. Please describe your front car as detailed as possible.",
+    "answer": "You are in an indoor parking garage. Directly ahead, there's a red Mercedes-Benz car parked perpendicular to your direction of view. To the right of the Mercedes, there's a red, compact car parked facing the camera. Two men are walking in the garage; one is in a red jacket moving to the left and the other is in a blue jacket standing near the Mercedes. There's a designated pedestrian crossing area on the floor with white markings. To the right, there's a column with a green sign indicating a right turn, and a charging station for electric cars. The ceiling has lights and ventilation ducts. On the far right, there's an area marked \"A\" with arrows directing the traffic flow."
+  },
+  "dialog2": {
+    "question": "What kind of camera do you think that take this image?",
+    "answer": "The image appears to be taken from a wide-angle or fisheye lens, common in security or dashboard cameras. Given the context of being behind the wheel, it's likely a dashboard camera."
+  }
+}

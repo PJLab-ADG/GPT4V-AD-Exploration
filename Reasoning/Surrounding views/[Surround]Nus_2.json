@@ -1,0 +1,10 @@
+{
+  "dialog1": {
+    "question": "You are a mature driver behind the wheel. These five images were captured and put together by the surround view camera in your vehicle. The FOV of each surround view camera is approximately 120°. And the middle image is the directly front.\n Please describe in detail the scenario you are in, make a special distinction between what's in front of you and what's on either side of you!",
+    "answer": "You're situated in a semi-industrial or commercial area. In front of you is a broad street lined by multi-storied buildings, probably commercial or office spaces. Directly ahead, there's a white SUV parked beside a white-lined pedestrian crossing. The road has multiple lanes and is marked with clear road markings and arrows. Traffic cones are visible, indicating potential roadwork or lane closures.\nTo your left, there are large bay doors, possibly loading docks, with orange barriers in front. There are no vehicles or people in this immediate view, but there are parking spaces marked.\nTo your right, there's a large truck with a trailer, indicating that this area is used for deliveries or freight. The truck is parked or possibly waiting beside another set of bay doors or loading docks.\n On either side of you, the architecture and design of the buildings appear consistent, suggesting that you are in a coordinated commercial complex or business park. The presence of the large truck and the bay doors confirm the commercial nature of this area."
+  },
+  "dialog2": {
+    "question": "Please count and describe how many vehicles are in the current scene.",
+    "answer": "There are 2 vehicles in the current scene: A white SUV parked on the street, seen in the middle image. A large truck with a trailer on the right side, which appears to be parked or waiting next to the bay doors."
+  }
+}

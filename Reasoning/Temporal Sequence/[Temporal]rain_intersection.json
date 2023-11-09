@@ -1,0 +1,4 @@
+{
+  "question": "This is a time series of four pictures taken from a driving recorder. The chronological order is marked on the corresponding subfigure. As the driver of the car, please describe what happened in these four seconds, what actions you performed, and why you performed the actions you did.",
+  "answer": "During these four seconds, I was driving in rainy conditions. At Time: 0 s, I was approaching a red traffic light and cars ahead were stopping. I began to slow down and maintain a safe distance from the car in front. By Time: 1 s, I continued braking gradually as the car in front was still stationary. The traffic light was still red. At Time: 2 s, the traffic light turned green, but I remained stationary, ensuring the cars in front started moving first. By Time: 3 s, cars began to move, and I prepared to accelerate. I performed these actions to ensure safety and follow traffic rules."
+}

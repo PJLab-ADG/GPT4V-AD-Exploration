@@ -1,0 +1,14 @@
+{
+  "dialog1": {
+    "question": "This is a time series of four pictures taken from your driving recorder. The chronological order is marked on the corresponding subfigure. First please identify what objects are marked as 1 and 2.",
+    "answer": "Object 1 is a car and object 2 is a pedestrian."
+  },
+  "dialog2": {
+    "question": "Is object 1 the car you are driving?",
+    "answer": "No, object 1 is not the car I am driving; it is a car in front of the camera's viewpoint."
+  },
+  "dialog3": {
+    "question": "As the driver of the car, please describe what happened in front of you in  these four seconds, what actions you performed, and why you performed the actions you did.",
+    "answer": "- In the first second (Time: 0 s), a car (object 1) is directly in front of the viewpoint, indicating that you're following it. Simultaneously, a pedestrian (object 2) is on the left side of the road, likely preparing to cross.\n\n- By the second frame (Time: 1 s), the car (object 1) has moved slightly forward, and the pedestrian (object 2) is no longer visible from this angle. The pedestrian might have crossed or stayed on the sidewalk.\n\n- In the third frame (Time: 2 s), the car (object 1) continues its trajectory, and the pedestrian (object 2) has appeared again on the right side of the road, having crossed it.\n\n- By the fourth frame (Time: 3 s), the car (object 1) is farther ahead and the area seems clearer with no pedestrian in sight.\n\nYour actions as a driver:\n1. You followed the car (object 1) while maintaining a safe distance.\n2. As a pedestrian (object 2) was nearby and possibly crossing the street, you likely remained cautious and prepared to brake if necessary.\n3. Once the pedestrian had safely crossed, you continued to follow the car in front without any obstruction.\n\nWhy you performed these actions:\n1. Maintaining a safe distance ensures you have ample time to react to unexpected events.\n2. Pedestrians have the right of way, so being cautious around them is essential for their safety and yours.\n3. With the path clear, continuing at a steady pace ensures the smooth flow of traffic."
+  }
+}

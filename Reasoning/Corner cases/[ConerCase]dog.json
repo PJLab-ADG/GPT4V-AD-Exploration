@@ -1,0 +1,10 @@
+{
+  "dialog1": {
+    "question": "You're the mature driver behind the wheel and this image is what you see now. Describe what you see and what you plan to drive next.",
+    "answer": "I see a nighttime city scene with well-lit streets. There are buildings on both sides of the road with illuminated signage. One of the signs reads \"BIG\" in bright white letters. On the road, there are pedestrian crosswalk lines. A person is walking across the crosswalk, accompanied by two dogs. Traffic lights are visible, but their current status isn't clear from the image.\nGiven the presence of the pedestrian and the dogs on the crosswalk, I would come to a complete stop if I haven't already. I would ensure the safety of the pedestrian and the dogs by waiting for them to completely cross the road before proceeding. Safety always comes first, especially in scenarios involving pedestrians at night."
+  },
+  "dialog2": {
+    "question": "Can you tell me which part is the pedestrian on the picture? e.g. left-bottom, upper-right etc.",
+    "answer": "Certainly. The pedestrian in the picture is located towards the center-right area of the image, walking across the crosswalk."
+  }
+}

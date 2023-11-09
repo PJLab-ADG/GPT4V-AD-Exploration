@@ -1,0 +1,10 @@
+{
+  "dialog1": {
+    "question": "This is what you see behind the wheel. Please describe your front car as detailed as possible.",
+    "answer": "The car in front of you is a white vehicle, likely a hatchback or compact SUV. It has a rear windshield wiper and a central brake light on the top edge of the back window. The car also has a manufacturer's emblem on its rear, but it's not clearly visible in the image. The license plate is visible but not readable in the picture. The rear lights are turned on, indicating either braking or nighttime running lights. The car also has a rearview camera located above the license plate."
+  },
+  "dialog2": {
+    "question": "Based on the image, what reason do you think caused the car in front braked?",
+    "answer": "The car in front might have braked due to the presence of traffic cones lining the road, indicating potential roadwork, lane closures, or a change in traffic flow. Another reason could be the presence of other vehicles or pedestrians ahead, though they are not visible in the image provided."
+  }
+}

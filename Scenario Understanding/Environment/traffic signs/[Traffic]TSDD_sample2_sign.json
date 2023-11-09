@@ -1,0 +1,4 @@
+{
+  "question": "This is a front-camera view of a driving car. Please identify all the traffic signs in the image, and explain each of them.",
+  "answer": "In the image, there are three traffic signs displayed:\n60: This is a speed limit sign, indicating that the maximum allowed speed on this road or section of the road is 60 kilometers per hour (km/h).\nTruck with a slash through it: This is a no trucks or no heavy vehicles sign, indicating that trucks or heavy vehicles are not permitted on this road or section of the road.\nCar with a horn and a slash through it: This signifies a no honking or horn prohibited zone. Drivers are not allowed to use their vehicle's horn in the area where this sign is displayed.\nIt's important for drivers to always obey traffic signs to ensure safety on the road."
+}
