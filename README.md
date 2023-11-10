@@ -4,7 +4,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/PJLab-ADG/GPT4V-AD-Exploration?color=yellow)
 ![GitHub license](https://img.shields.io/github/license/PJLab-ADG/GPT4V-AD-Exploration)
 
-This is the official repository for the paper: **On the Road with GPT-4V(ision): Early Explorations of Visual-Language Model on Autonomous Driving**.
+This is the official repository for the technical report: **On the Road with GPT-4V(ision): Early Explorations of Visual-Language Model on Autonomous Driving**.
 
 <img src="./assets/intro.png" title="" alt="Intro Image" width="80%">
 
@@ -14,7 +14,23 @@ This is the official repository for the paper: **On the Road with GPT-4V(ision):
 
 ## 📌 Introduction
 
-In our paper, we explore the revolutionary GPT-4V, a visionary in the field of autonomous driving. Here, you'll find a treasure trove of original test images and in-depth results demonstrating the model's capabilities in understanding complex driving scenes and making decisions like a seasoned driver.
+In our report, we explore the revolutionary GPT-4V, a visionary in the field of autonomous driving. Here, you'll find a treasure trove of original test images and in-depth results demonstrating the model's capabilities in understanding complex driving scenes and making decisions like a seasoned driver.
+
+## 🖼 Illustrations
+
+Here's a glimpse into some of the fascinating results from our report:
+
+- **Weather Understanding**: This image showcases GPT-4V's capability to understand different weather conditions, a critical factor in autonomous driving.
+  
+  ![Weather Understanding](./assets/sec_2_1_weatherUnderstanding-1.png)
+
+- **Corner Cases**: An illustration of how GPT-4V handles complex and unusual traffic scenarios, which are often challenging for autonomous systems.
+  
+  ![Corner cases](./assets/sec_3_1_cornerCases_2-1.png)
+
+- **Act as a Driver**: A demonstration of GPT-4V acting in the capacity of a driver, making decisions in real-world driving situations.
+  
+  ![Act as driver](./assets/sec_4_1_driveagent-1.png)
 
 ## 🚀 Usage
 
@@ -44,6 +60,18 @@ If our repository accelerates your research, please use the following citation:
   year={2023}
 }
 ```
+
+## 🌟 Other Awesome Projects from Our Team
+
+Our team is actively involved in various innovative projects in the realm of autonomous driving. Here are some other exciting repositories that you might find interesting:
+
+- **[Awesome Knowledge-Driven Autonomous Driving](https://github.com/PJLab-ADG/awesome-knowledge-driven-AD)** 
+
+- **[Drive Like a Human](https://github.com/PJLab-ADG/driveLikeAHuman)** 
+
+- **[DiLu](https://github.com/PJLab-ADG/DiLu)** 
+
+
 
 ## 📄 License
 
