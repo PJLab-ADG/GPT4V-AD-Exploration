@@ -1,12 +1,13 @@
-# On the Road with GPT-4V(ision) 👁️
+<img src="https://github.com/PJLab-ADG/GPT4V-AD-Exploration/assets/18390668/3243180a-0508-43e4-a1c3-a744d89a4f89" title="" alt="Head pic" width="80%">
 
 [![Static Badge](https://img.shields.io/badge/Arxiv-pdf-8A2BE2?logo=arxiv)](https://arxiv.org/abs/2311.05332)
 ![GitHub stars](https://img.shields.io/github/stars/PJLab-ADG/GPT4V-AD-Exploration?color=yellow)
 ![GitHub license](https://img.shields.io/github/license/PJLab-ADG/GPT4V-AD-Exploration)
 
-This is the official repository for the technical report: **On the Road with GPT-4V(ision): Early Explorations of Visual-Language Model on Autonomous Driving**.
+This is the official repository for the technical report: 
 
-<img src="./assets/intro.png" title="" alt="Intro Image" width="80%">
+**On the Road with GPT-4V(ision): Early Explorations of Visual-Language Model on Autonomous Driving**.
+
 
 ## 📰 News
 
