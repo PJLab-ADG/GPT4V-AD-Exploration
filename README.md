@@ -22,15 +22,16 @@ Here's a glimpse into some of the fascinating results from our report:
 
 - **Weather Understanding**: This image showcases GPT-4V's capability to understand different weather conditions, a critical factor in autonomous driving.
   
-  ![Weather Understanding](./assets/sec_2_1_weatherUnderstanding-1.png)
+  <img src="./assets/sec_2_1_weatherUnderstanding-1.png" title="" alt="Weather Understanding" width="65%">
+
 
 - **Corner Cases**: An illustration of how GPT-4V handles complex and unusual traffic scenarios, which are often challenging for autonomous systems.
-  
-  ![Corner cases](./assets/sec_3_1_cornerCases_2-1.png)
+
+  <img src="./assets/sec_3_1_cornerCases_2-1.png" title="" alt="Corner cases" width="65%">
 
 - **Act as a Driver**: A demonstration of GPT-4V acting in the capacity of a driver, making decisions in real-world driving situations.
-  
-  ![Act as driver](./assets/sec_4_1_driveagent-1.png)
+
+  <img src="./assets/sec_4_1_driveagent-1.png" title="" alt="Act as driver" width="65%">
 
 ## 🚀 Usage
 
